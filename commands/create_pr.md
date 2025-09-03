@@ -16,6 +16,7 @@
 - Structure the commit message with a short subject line, followed by a concise description of the changes made and why
 
 ## Create Github Pull Request (PR) for this feature branch
+- Push branch to remote origin if not already done
 - Use the Github MCP server tool to create a Github Pull Request (PR) for the changes made in the current branch, referencing the associated Jira task @$ARGUMENTS with a hyperlink  (task URL is in format https://travelperk.atlassian.net/browse/<JIRA_ISSUE_ID>)
 - Follow the PR template in @.github/PULL_REQUEST_TEMPLATE.md if present
 - Include task/feature Context, summary of key changes, and Impact
